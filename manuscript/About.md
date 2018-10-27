@@ -2,7 +2,6 @@
 Autor principal: Don Jones  
 Autor colaborador: Dr. Tobias Weltner  
 Contribuciones de: Dave Wyatt y Aleksandar Nikolik  
-Diseño de portada: Nathan Vonnahme
 
 ---
 
